@@ -1,0 +1,22 @@
+div {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 60px;
+  color: orange;
+}
+
+#banner {
+  background-size: cover;
+  background-image: url(Coffee/image/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+#header {
+  background: url(coffee/image/download.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
